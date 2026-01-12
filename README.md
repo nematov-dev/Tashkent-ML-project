@@ -32,7 +32,8 @@ The models are evaluated using:
 
 ## 📁 Repository Structure
 
-
+├── toshkent-house-prices.ipynb # Full project workflow: preprocessing, modeling, evaluation
+└── README.md
 
 ---
 
