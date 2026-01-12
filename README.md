@@ -84,10 +84,10 @@ The models are evaluated using:
 
 **Example results on the test set:**
 
-| Model             | MAE (UZS) | RMSE (UZS) |
-|------------------|------------|------------|
-| Linear Regression | ~67,000    | ~1,367,000 |
-| Random Forest     | ~61,000    | ~1,368,000 |
+| Model             | MAE  |
+|------------------|------------|
+| Linear Regression | ~67,000    |
+| Random Forest     | ~61,000    | 
 
 > Note: RMSE is high due to wide price variance and some outliers.
 
